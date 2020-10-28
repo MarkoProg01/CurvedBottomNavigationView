@@ -16,7 +16,6 @@
     app:mbn_countBackgroundColor="#ff6f00"
     app:mbn_defaultIconColor="#90a4aa"
     app:mbn_selectedIconColor="#3c415e"
-
     />
 
 </RelativeLayout>
