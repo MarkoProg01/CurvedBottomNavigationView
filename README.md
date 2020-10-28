@@ -1,9 +1,7 @@
-# Meow Bottom Navigation For Java Projects without androidx  
-# DEPRECATED !!! 
-We suggest you to use [Meow Bottom Navigation in Kotlin](https://github.com/oneHamidreza/MeowBottomNavigation)
+# Meow Bottom Navigation
+
 
 A simple & curved & material bottom navigation for Android.  
-  
 <img src="images/screenlook.gif" width="300" height="600">
 
   
@@ -18,7 +16,7 @@ dependencies {
 ```  
   
 ## Usage  
-Add Meow Bottom Navigation in xml
+Add Meow Bottom Navigation in xml <br>
 Before this change to RelativeLayout
 ```xml  
 <com.etebarian.meowbottomnavigation.MeowBottomNavigation
